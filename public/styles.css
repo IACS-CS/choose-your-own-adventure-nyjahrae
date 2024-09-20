@@ -7,11 +7,11 @@ body {
   padding: 1em;
 }
 p {
-  font-size: 12pt;
+  font-size: 20pt;
   font-family: cursive;
 }
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: brown;
+  color: rgb(13 , 84, 42);
 }
